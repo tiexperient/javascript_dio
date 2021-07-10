@@ -10,5 +10,5 @@ Página intuitiva do jogo da cobrinha. Divirtam-se!
 
 * HTML
 
-  **Desenvolvido por: ** Célia Medeiros :yellow_heart:
+  **Desenvolvido por:** Célia Medeiros :yellow_heart:
 
