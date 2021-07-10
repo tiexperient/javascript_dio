@@ -1,6 +1,6 @@
 # Lendário Jogo da Cobrinha :snake:
 
-Página intuitiva do jogo da cobrinha, Divirtam-se!
+Página intuitiva do jogo da cobrinha. Divirtam-se!
 
 :computer: **Tecnologias Utilizadas:** 
 
