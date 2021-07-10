@@ -92,4 +92,4 @@ snake.unshift(newHead);
 
 }
 
-var jogo = setInterval(iniciarJogo, 100);
+var jogo = setInterval(iniciarJogo, 150);
